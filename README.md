@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tomiwa28
 - 👀 I’m interested in Data Scientist
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data Science and Machine Learning
+- 💞️ I’m looking to collaborate on data science/ machine learning projects
 - 📫 I can be reached on LinkedIn www.linkedin.com/in/oluwatomiwa-adeleke-5879a419a
 
 <!---
